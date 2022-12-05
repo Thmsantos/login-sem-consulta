@@ -1,0 +1,3 @@
+adm exclui ou altera
+verificar se ja tem o email/cpf
+pedir a senha 2x
